@@ -1,3 +1,12 @@
 title: Hanlin Chen (陈翰林)
 
 theme: jekyll-theme-minimal
+
+
+nav:
+- name: "About"
+  link: "/hlchen/"
+- name: "Curriculum Vitae"
+  link: "cv.pdf"
+- name: "GitHub"
+  link: https://github.com/HLinChen
