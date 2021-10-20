@@ -1,5 +1,7 @@
 ## About Me
 
+<img class="profile-picture" src="chl.jpg">
+
 I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my mentor is Xiuyu Sun and Dr. Ming Lin. My research interests are in machine learning and computer vision, especially in neural architecture search (NAS) and 3D vision. I just obtained my master degree in pattern recognition and intelligent system from [Beihang University](https://www.buaa.edu.cn), searching for NAS. And my supervisor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en).
 
 ## Journal & Conference Papers
