@@ -1,7 +1,8 @@
 title: Hanlin Chen (陈翰林)
 
 theme: jekyll-theme-minimal
-remote_theme: ankitsultana/researcher@gem
+
+logo: chl.jpg
 
 nav:
 - name: "About"
