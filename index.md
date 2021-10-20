@@ -1,5 +1,4 @@
 
-<img class="profile-picture" src="chl.jpg">
 
 ## About Me
 
