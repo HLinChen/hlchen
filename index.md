@@ -2,8 +2,9 @@
 
 ## About Me
 
+ I am currently a computer vision algorithm engineer in Alibaba Damo Academy, and my tutors are Mr. Sun Xiuyu and Dr. Lin Ming. My research interests are machine learning and computer vision, especially neural architecture search (NAS) and 3D vision. I just got my master's degree in Pattern Recognition and Intelligent Systems from [Beihang University](https://www.buaa.edu.cn).
 
-I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my mentor is Xiuyu Sun and Dr. Ming Lin. My research interests are in machine learning and computer vision, especially in neural architecture search (NAS) and 3D vision. I just obtained my master degree in pattern recognition and intelligent system from [Beihang University](https://www.buaa.edu.cn), searching for NAS. And my supervisor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en).
+<!-- I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my mentor is Xiuyu Sun and Dr. Ming Lin. My research interests are in machine learning and computer vision, especially in neural architecture search (NAS) and 3D vision. I just obtained my master degree in pattern recognition and intelligent system from [Beihang University](https://www.buaa.edu.cn), searching for NAS. And my supervisor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en). -->
 
 ## Journal & Conference Papers
 
@@ -50,7 +51,7 @@ I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my
 
 * **Beihang University, Beijing, China**
 
-    Master of Pattern Recognition and Intelligent System, Sep 2018 - Present
+    Master of Pattern Recognition and Intelligent System, Sep 2018 - Jan 2021
 
 * **Shenyang Aerospace University, Shenyang, China**
 
@@ -67,7 +68,7 @@ I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my
 
 * **Excellent Graduation Thesis in Beihang University, 2021.**
 
-* **Excellent Graduate in Beihang University, 2021**
+* **Excellent Graduate in Beihang University, 2021.**
 
 * **National Scholarship in China, 2021.**
   
@@ -75,7 +76,7 @@ I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my
 
 ## Skills
 
-- **Spoken Languages**: English
+<!-- - **Spoken Languages**: English -->
 
 - **Programming Languages**: Python, C/C++, matlab
 
