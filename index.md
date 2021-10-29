@@ -88,7 +88,7 @@
 
 <!-- **Address**: Room 1126, New Main Building #E, XueYuan Road No.37, Beihang University, 100191 -->
 
-**E-mail**:  [hlinchen@foxmail.com](mailto:hlinchen@foxmail.com) or [hlchen1105@gmai.com](mailto:hlchen1105@gmai.com)
+**E-mail**: [hlchen@buaa.edu.cn](mailto:hlchen@buaa.edu.cn) or [hlinchen@foxmail.com](mailto:hlinchen@foxmail.com) or [hlchen1105@gmai.com](mailto:hlchen1105@gmai.com)
 
 **Phone**: [+86-17812032728](tel:+86-17812032728)
 
