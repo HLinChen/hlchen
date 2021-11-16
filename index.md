@@ -76,7 +76,7 @@
 
 ## Skills
 
-- **Spoken Languages**: English (TOEFL: Reading 29/ Listening 27/ Speaking 24/ Writing 27/ Total 107)
+- **TOEFL**: Reading 29/ Listening 27/ Speaking 24/ Writing 27/ Total 107
 
 - **Programming Languages**: Python, C/C++, matlab
 
