@@ -34,7 +34,7 @@
 * **Machine Intelligence, Vision Lab (Alibaba DAMO Academy)**
   - Research on Neural Architecture Search (NAS).
   
-  - Research on 3D vision
+  - Research on 2D & 3D vision
 
 
 * **The Baochang Zhang’s Group (Beihang University)**
@@ -94,4 +94,4 @@
 
 
 
-
+`
