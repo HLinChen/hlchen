@@ -2,11 +2,13 @@
 
 ## About Me
 
- I am currently a computer vision algorithm engineer in Alibaba Damo Academy, and my tutors are Mr. Sun Xiuyu and Dr. Lin Ming. My research interests are machine learning and computer vision, especially in general visual perception and understanding in the real world. I just got my master's degree in Pattern Recognition and Intelligent Systems from [Beihang University](https://ev.buaa.edu.cn).
+I am a PHD student in National University of Singapore, and my adviser is [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). I worked as a computer vision algorithm engineer in Alibaba Damo Academy, and my tutors were Mr. Sun Xiuyu and Dr. Lin Ming. My research interests are machine learning and 3D computer vision, especially in neural rendering, visual perception and understanding in the real world. I just got my master's degree in Pattern Recognition and Intelligent Systems from [Beihang University](https://ev.buaa.edu.cn).
 
 <!-- I am currently a computer vision algorithm engineer Alibaba DAMO Academy, and my mentor is Xiuyu Sun and Dr. Ming Lin. My research interests are in machine learning and computer vision, especially in neural architecture search (NAS) and 3D vision. I just obtained my master degree in pattern recognition and intelligent system from [Beihang University](https://www.buaa.edu.cn), searching for NAS. And my supervisor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en). -->
 
 ## Journal & Conference Papers
+
+- **Hanlin Chen**, Li Chen, Mengqi Guo, Zhiwen Yan, Gim Hee Lee. [GNeSF: Generalizable Neural Semantic Fields](https://arxiv.org/pdf/2009.04247.pdf). NeurPIS, 2023.
 
 - **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, Rongrong Ji, David Doermann, Guodong Guo. [Binarized Neural Architecture Search for Efficient Object Recognition](https://arxiv.org/pdf/2009.04247.pdf). IJCV, 2021.
 
