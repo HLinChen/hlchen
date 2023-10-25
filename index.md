@@ -8,7 +8,7 @@ I am a PHD student in National University of Singapore, and my adviser is [Gim H
 
 ## Journal & Conference Papers
 
-- **Hanlin Chen**, Li Chen, Mengqi Guo, Zhiwen Yan, Gim Hee Lee. [GNeSF: Generalizable Neural Semantic Fields](https://arxiv.org/pdf/2009.04247.pdf). NeurPIS, 2023.
+- **Hanlin Chen**, Li Chen, Mengqi Guo, Zhiwen Yan, Gim Hee Lee. [GNeSF: Generalizable Neural Semantic Fields](https://arxiv.org/pdf/2310.15712.pdf). NeurPIS, 2023.
 
 - **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, Rongrong Ji, David Doermann, Guodong Guo. [Binarized Neural Architecture Search for Efficient Object Recognition](https://arxiv.org/pdf/2009.04247.pdf). IJCV, 2021.
 
