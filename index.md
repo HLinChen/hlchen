@@ -78,7 +78,7 @@ I am a PHD student in National University of Singapore, and my adviser is [Gim H
 
 ## Skills
 
-- **TOEFL**: Reading 29/ Listening 27/ Speaking 24/ Writing 27/ Total 107
+<!-- - **TOEFL**: Reading 29/ Listening 27/ Speaking 24/ Writing 27/ Total 107 -->
 
 - **Programming Languages**: Python, C/C++, matlab
 
